@@ -1,4 +1,4 @@
-# gikit
+# Flutter stack widget
 
 A new Flutter project.
 
